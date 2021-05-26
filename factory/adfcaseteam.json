@@ -1,0 +1,9 @@
+{
+	"name": "adfcaseteam",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c13cb9b0-9266-4fed-bb58-d842a0a6ee72",
+		"tenantId": "c2758905-19a1-4eaa-9f05-15d8288e17bb"
+	}
+}
